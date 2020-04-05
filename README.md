@@ -1,2 +1,2 @@
-Relayr-TestTask (Underline)
+Relayr-TestTask
 ----------
