@@ -34,3 +34,8 @@ Number of measurement type is : 4.0
 The measured values for specified date range are : 
   - 2  8ac23d27-8747-408f-89d7-c84b827a7776  ...  21.7
   - 6  8ac23d27-8747-408f-89d7-c84b827a7776  ...  21.7
+
+### How to run the script?
+  - Clone the repository or download the measurements.py file
+  - Run the python script from any editor(PyCharm/Eclipse) or from the commandline with the following parameters:
+    - python3 measurements.py cnt 0ea7f78a-d224-4d3a-a014-001a0794e746 temperature "2019-05-30 00:00:31.007" "2019-05-30 08:00:51.713"
