@@ -6,3 +6,4 @@ Relayr-TestTask
   - Pandas
   - Sys
   - Random
+### Usage of the script
