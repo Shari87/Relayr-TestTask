@@ -32,6 +32,5 @@ Number of measurements of the device is : 4.0
 Number of measurement type is : 4.0
 
 The measured values for specified date range are : 
-                              device_id  ... measurement_value
-2  8ac23d27-8747-408f-89d7-c84b827a7776  ...              21.7
-6  8ac23d27-8747-408f-89d7-c84b827a7776  ...              21.7
+  - 2  8ac23d27-8747-408f-89d7-c84b827a7776  ...  21.7
+  - 6  8ac23d27-8747-408f-89d7-c84b827a7776  ...  21.7
