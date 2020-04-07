@@ -9,7 +9,10 @@ Relayr-TestTask
 measurements.py action [--device id] [--measurement name] [--start timestamp] [--end timestamp]
 
 The script uses 3 methods to process the data in my_data.csv
+
 - process_dev_data(action, device_id)
-  - This function accepts two parameters action and device_id. Both these parameters are passed as command line arguments to the function. The output of the function is as follows:
-    - measurements.py cnt 0ea7f78a-d224-4d3a-a014-001a0794e746
-    - Number of measurements of the device is : 4.0
+  - This function accepts two parameters action and device_id. Both these parameters are passed as command line arguments to the function
+- process_dev_data(action, meas_name)
+  - This function accepts two parameters action and meas_name. Both these parameters are passed as command line arguments to the function
+- process_ts_data(action)
+  - This function accepts one parameters action. This parameter is passed via command line to the function
